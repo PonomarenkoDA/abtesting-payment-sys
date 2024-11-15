@@ -26,7 +26,7 @@
 
 4. Автоматизирован процесс пересчета и визуализации целевых метрик, отражающих результаты АБ-тестирования, при обновлении данных в исходном файле df_groups_add.csv.
 
-    ![metrics](https://github.com/PonomarenkoDA/images/blob/main/business_metrics.png?raw=true)
+    ![metrics](https://github.com/PonomarenkoDA/images/blob/main/business_metrics_$.png?raw=true)
 
 5. Проведен расчет размера выборок в группах (control/test) и построены гистограммы распределений данных для каждой метрики.
 
